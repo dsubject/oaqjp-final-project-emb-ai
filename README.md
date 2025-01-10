@@ -118,5 +118,7 @@ Example Usage:
 ---
 
 ## **Author**
-Created by [dsubject](https://github.com/dsubject). Feel free to fork or contribute!
+Created by [dsubject](https://github.com/dsubject). 
+
+This project was initially forked from ibm-developer-skills-network/oaqjp-final-project-emb-ai.
 
